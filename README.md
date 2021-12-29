@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/AntonioGuizar">
-    <img src="images/antonioguizar.png" alt="Antonio Guizar Web Developer" width="80" height="80">
+    <img src="images/antonioguizar.png" alt="Antonio Guizar Web Developer" width="150" height="150">
   </a>
 
   <h3 align="center">Antonio Guizar</h3>
