@@ -1,9 +1,6 @@
 ### Hi friends 💻
 
 [![wakatime](https://wakatime.com/badge/user/fa87ad1d-652d-4da1-a193-a29cdaad4e1a.svg)](https://wakatime.com/@fa87ad1d-652d-4da1-a193-a29cdaad4e1a)
-
-<a href="https://wakatime.com/@fa87ad1d-652d-4da1-a193-a29cdaad4e1a"><img src="https://wakatime.com/badge/user/fa87ad1d-652d-4da1-a193-a29cdaad4e1a.svg" alt="Total time coded since Aug 29 2016" /></a>
-
 <!--
 **AntonioGuizar/antonioguizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
