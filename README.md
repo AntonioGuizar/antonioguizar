@@ -1,5 +1,6 @@
 ### Hi friends 💻
 
+[![wakatime](https://wakatime.com/badge/user/fa87ad1d-652d-4da1-a193-a29cdaad4e1a.svg)](https://wakatime.com/@fa87ad1d-652d-4da1-a193-a29cdaad4e1a)
 <!--
 **AntonioGuizar/antonioguizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
