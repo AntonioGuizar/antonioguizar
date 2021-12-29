@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <p align="center">
     I am passionate about programming, I am currently learning VueJS and Flutter 😎!
     <br />
-    <a href="https://www.linkedin.com/in/antonio-guizar"><strong>My linkedin »</strong></a>
+    <a href="https://www.linkedin.com/in/antonio-guizar"><strong>Linkedin</strong></a>
+    <a href="https://wakatime.com/@AntonioGuizar"><strong>Wakatime</strong></a>
   </p>
 </div>
