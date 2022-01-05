@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </a>
 
   <h3 align="center">Antonio Guizar</h3>
-  <h4 align="center">Web developer</h4>
+  <h4 align="center">🤓 Web developer</h4>
 
   <p align="center">
     I am passionate about programming, I am currently learning VueJS and Flutter 😎!
@@ -29,4 +29,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/antonio-guizar"><strong>Linkedin</strong></a>
     <a href="https://wakatime.com/@AntonioGuizar"><strong>Wakatime</strong></a>
   </p>
+</div>
+<div>
+  <ul>
+    <li><a href="https://www.sololearn.com/profile/2574905">My profile on Sololearn</a></li>
+  </ul>
 </div>
