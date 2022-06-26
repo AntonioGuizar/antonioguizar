@@ -35,3 +35,8 @@ Here are some ideas to get you started:
     <li><a href="https://www.sololearn.com/profile/2574905">My profile on Sololearn</a></li>
   </ul>
 </div>
+<div>
+  [![AntonioGuizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioguizar&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioguizar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
