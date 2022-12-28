@@ -35,3 +35,6 @@ Here are some ideas to get you started:
     <li><a href="https://www.sololearn.com/profile/2574905">My profile on Sololearn</a></li>
   </ul>
 </div>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioguizar"/>
+</div>
