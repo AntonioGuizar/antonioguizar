@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/AntonioGuizar">
     <img src="images/antonioguizar.png" alt="Antonio Guizar Web Developer" width="150" height="150">
   </a>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonioguizar">
 
   <h3 align="center">Antonio Guizar</h3>
   <h4 align="center">🤓 Web developer</h4>
@@ -34,7 +36,4 @@ Here are some ideas to get you started:
   <ul>
     <li><a href="https://www.sololearn.com/profile/2574905">My profile on Sololearn</a></li>
   </ul>
-</div>
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioguizar"/>
 </div>
