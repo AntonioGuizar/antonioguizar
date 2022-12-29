@@ -1,25 +1,12 @@
 ### Hi friends 💻
 
 [![wakatime](https://wakatime.com/badge/user/fa87ad1d-652d-4da1-a193-a29cdaad4e1a.svg)](https://wakatime.com/@fa87ad1d-652d-4da1-a193-a29cdaad4e1a)
-<!--
-**AntonioGuizar/antonioguizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <a href="https://github.com/AntonioGuizar">
     <img src="images/antonioguizar.png" alt="Antonio Guizar Web Developer" width="150" height="150">
   </a>
-  
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonioguizar">
 
   <h3 align="center">Antonio Guizar</h3>
