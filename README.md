@@ -13,7 +13,7 @@
   <h4 align="center">🤓 Web developer</h4>
 
   <p align="center">
-    I am passionate about programming, I am currently learning VueJS and Flutter 😎!
+    I am passionate about programming, I am currently learning VueJS 😎!
     <br />
     <a href="https://www.linkedin.com/in/antonio-guizar"><strong>Linkedin</strong></a>
     <a href="https://wakatime.com/@AntonioGuizar"><strong>Wakatime</strong></a>
